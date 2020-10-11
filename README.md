@@ -1,8 +1,6 @@
 # My-Websute
 ThIs my website i create a Interface website.
-This source code the website.
-
-(HTML)
+This source code the website (HTML)
 
 <!doctype html>
 <html lang="en">
